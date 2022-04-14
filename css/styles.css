@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-color: #E4F9F5;
+}
+
+.container h1{
+    margin: 0 auto;
+}
